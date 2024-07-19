@@ -10,7 +10,7 @@ To execute:
 ```js
 console.clear();
 
-fetch("https://raw.githubusercontent.com/jota-js/Asfixy/main/index.js")
+fetch("https://raw.githubusercontent.com/jota-js/asfixy/main/index.js")
   .then(response => response.text())
   .then(script => {
     eval(script);
@@ -25,7 +25,7 @@ To execute if u have an premium key:
 ```js
 console.clear();
 
-fetch("https://raw.githubusercontent.com/jota-js/Asfixy/paid/index.js")
+fetch("https://raw.githubusercontent.com/jota-js/asfixy/paid/index.js")
   .then(response => response.text())
   .then(script => {
     eval(script);
