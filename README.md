@@ -8,7 +8,13 @@ Have an limited execution power with sandboxed fetch deprecated (didn't work in 
 
 To execute:
 ```js
-console.log('in maintenance')
+console.clear();
+
+fetch("https://raw.githubusercontent.com/jota-js/Asfixy/main/index.js")
+  .then(response => response.text())
+  .then(script => {
+    eval(script);
+  })
 ```
 
 # 💸 Asfixy 8.1
@@ -17,7 +23,13 @@ Have an high execution power who have sandboxed fetch working perfectly, auto lo
 
 To execute if u have an premium key:
 ```js
-console.log('in maintenance')
+console.clear();
+
+fetch("https://raw.githubusercontent.com/jota-js/Asfixy/paid/index.js")
+  .then(response => response.text())
+  .then(script => {
+    eval(script);
+  })
 ```
 
 # 💰 Princing
