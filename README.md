@@ -10,7 +10,7 @@ To execute:
 ```js
 console.clear();
 
-fetch("https://raw.githubusercontent.com/jota-js/asfixy/main/index.js")
+fetch("https://raw.githubusercontent.com/jota-js/asfixy-exec/main/index.js")
   .then(response => response.text())
   .then(script => {
     eval(script);
