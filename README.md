@@ -38,4 +38,5 @@ Actually, Asfixy Paid (AKA Asfixy 8.1) have an price of 0.99 for a lifetime key 
 
 # 📱 Discord
 
-UnB Team discord to buy and discover new projects: https://discord.com/invite/9PHwxdqMm5
+UnB Team discord to buy and discover new projects: 
+(expirado)
