@@ -93,7 +93,7 @@ function exibirFrame() {
     var button1 = document.createElement("button");
     var button1Icon = document.createElement("img");
     button1.style.backgroundColor = "black";
-    button1Icon.src = "https://gcdnb.pbrd.co/images/icUa26yq3tvA.png?o=1";
+    button1Icon.src = "https://telegra.ph/file/47443c53f1a4d238e21c5.png";
     button1Icon.style.width = "32px";
     button1Icon.style.height = "32px";
     button1.appendChild(button1Icon);
@@ -125,7 +125,7 @@ function exibirFrame() {
     var button2 = document.createElement("button");
     var button2Icon = document.createElement("img");
     button2.style.backgroundColor = "black";
-    button2Icon.src = "https://gcdnb.pbrd.co/images/ceVi8cUAVYc6.png?o=1";
+    button2Icon.src = "https://telegra.ph/file/3d118777f08dabcdddd23.png";
     button2Icon.style.width = "32px";
     button2Icon.style.height = "32px";
     button2.appendChild(button2Icon);
