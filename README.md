@@ -8,4 +8,5 @@ Asfixy PC uses an `selenium-webdriver` with JavaScript to inject codes in browse
 # Bug Report System 🐛 
 Asfixy in both versions have an method to directly report bugs in a discord webhook (please don't spam :] )
 
+# By JoTa-Js 💭
 > Made with love ❤️
